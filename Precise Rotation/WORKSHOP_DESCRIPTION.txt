@@ -1,0 +1,1 @@
+Build with precision. Keep the original 90-degree rotation with X/Y/Z, use Left Alt + X/Y/Z for 45-degree steps, or Left Ctrl + X/Y/Z for fine 5-degree adjustments. A small readout tracks keyboard rotation per axis. Includes fully rebindable controls and an optional Hammerstone information page. No dependencies. By Vittorio.
